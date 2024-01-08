@@ -1,1 +1,1 @@
-A simple Calculator using HTML,CSS,JavaScript.
+<h1 style="color:blue;">A simple Calculator using HTML,CSS,JavaScript.</h1>
